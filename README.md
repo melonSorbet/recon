@@ -1,4 +1,5 @@
-# recon is a high performance fast api tester written in Rust
+# Recon 
+recon is a high performance fast api tester written in Rust
 
 ## Install
 recon will be available as a Application on PC as well as Browsers
